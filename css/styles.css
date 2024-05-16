@@ -171,16 +171,12 @@
 /*Section 3*/
 
 .main-page-text {
-    color: #2e2f42;
-    background-color: #f4f4fd;
-    text-align: center;
-    font-family: Roboto;
     font-size: 36px;
-    font-style: normal;
-    font-weight: 700;
     line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color:#2e2f42;  
 }
 
 .main-button-portfolio{
@@ -305,29 +301,25 @@
     color: #404bbf;
 }
 
-.project-text {
-    font-family: Roboto;
+.project-text-portfolio {
+font-weight: 500;
     font-size: 20px;
     font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+ 
 }
-
+.project-card-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+     color: #434455;
+}
 .project-text:root {
     color: #2e2f42;
 }
 
-.project-card-text {
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
+
 
 .project-card-text:root {
     color: #434455;
