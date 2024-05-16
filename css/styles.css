@@ -150,7 +150,14 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
-
+.main-fourth-section{
+    font-size:36px;
+        line-height:1.11;
+        text-align: center;
+        letter-spacing: 0.02em;
+        text-transform: capitalize;
+        color: #2e2f42;
+    }
 .main-second-section-text {
     color: var(--slate, #434455);
     font-family: Roboto;
@@ -245,7 +252,7 @@
     font-size: 16px;
     letter-spacing: 0.04em;
     color: #4d5ae5;
-    background-color: #f4f4fd;
+    background-color: #F4F4FD;
     cursor: pointer;
 }
 
