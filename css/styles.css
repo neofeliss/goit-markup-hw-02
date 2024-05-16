@@ -29,7 +29,9 @@
 .link:focus {
     color: #404bbf;
 }
-
+.project-text:root {
+    color: #2e2f42;
+}
 .logo {
     color: #4d5ae5;
     text-transform: uppercase;
@@ -53,11 +55,11 @@
 }
 
 .guidance link {
-    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 
@@ -74,13 +76,15 @@
 
 .dark-bg {
     background: var(--navyblue, #2e2f42);
+    font-family: "Roboto", sans-serif
     flex-shrink: 0;
 }
 
 .main-text {
     color: var(--white, #ffffff);
     text-align: center;
-
+    
+    font-family: Roboto;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
@@ -142,6 +146,7 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:#2e2f42;  
+    font-family: Roboto;
 }
 
 .main-button-portfolio{
@@ -177,7 +182,7 @@
     color: var(--cloud, #f4f4fd);
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
+    font-weight:400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -216,7 +221,7 @@
     font-size: 16px;
     letter-spacing: 0.04em;
     color: #4d5ae5;
-    background-color: #F4F4FD;
+    background-color:#F4F4FD;
     cursor: pointer;
 }
 
@@ -274,6 +279,7 @@ font-weight: 500;
  
 }
 .project-card-text {
+    font-family: Roboto;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
