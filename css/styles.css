@@ -169,17 +169,44 @@
 
 /*Section 3*/
 
-.main-page-text {
-    color: var(--navyblue, #2e2f42);
-    text-align:center;
-    font-family:Roboto;
-    font-size:36px;
-    font-style:normal;
-    font-weight:700;
-    line-height:1.11;
-    letter-spacing:0.02em;
-    text-transform:capitalize;
+
+.section-team {
+    background: #f4f4fd;
 }
+
+.section-team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.section-team-item {
+    background: #fff;
+}
+
+.section-team-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.section-team-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
+}
+
+/* Section 4 */
 
 /*Section 4*/
 
