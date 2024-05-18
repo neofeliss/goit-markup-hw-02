@@ -72,7 +72,7 @@
 }
 
 .header-address {
-    color: var(--slate, #434455);
+    color:#434455;
     font-style:normal;
     font-size:16px;
     line-height:1.5;
@@ -169,7 +169,7 @@
 }
 
 
-
+/* section 3 */
 
 .section-team-name {
     background-color:#F4F4FD;
@@ -221,7 +221,7 @@
     text-transform:capitalize;
     
 }
-
+/* section 4 */
 .section-subtitle-portfolio {
     color: var(--navyblue#2e2f42);
     font-weight:500;
