@@ -171,12 +171,12 @@
 /*Section 3*/
 
 
-.section-team {
+.section-team-name {
     background-color:#f4f4fd;
 }
 
-.section-team-title {
-    color: var(--navyblue#2e2f42);
+.section-team-title-name {
+    color:var(--navyblue#2e2f42);
     font-weight:700;
     font-size:36px;
     line-height:1.11;
@@ -186,11 +186,11 @@
     
 }
 
-.section-team-item {
+.section-team-item-name {
     background-color:#fff;
 }
 
-.section-team-subtitle {
+.section-team-subtitle-name {
     color: var(--navyblue#2e2f42);
     font-weight:500;
     font-size:20px;
@@ -200,7 +200,7 @@
   
 }
 
-.section-team-text {
+.section-team-text-name {
     color: var(--slate, #434455);
     font-weight:400;
     font-size:16px;
