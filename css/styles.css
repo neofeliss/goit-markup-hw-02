@@ -12,7 +12,7 @@
 
 /*header*/
 .header {
-    background:var(--white, #fff);
+    background-color:var(--white, #fff);
     flex-shrink:0;
     font-family:"Raleway", sans-serif;
     font-weight:700;
@@ -111,7 +111,7 @@
 /*Section 1*/
 
 .dark-bg {
-    background:var(--navyblue, #2e2f42);
+    background-color:var(--navyblue, #2e2f42);
     flex-shrink:0;
 }
 
@@ -127,7 +127,7 @@
 }
 
 .main-button {
-    background: #4d5ae5;
+    background-color:#4d5ae5;
     font-family:"Roboto", sans-serif;
     font-weight:500;
     font-size:16px;
@@ -171,7 +171,7 @@
 
 
 .section-team {
-    background color:#f4f4fd;
+    background-color:#f4f4fd;
 }
 
 .section-team-title {
@@ -185,7 +185,7 @@
 }
 
 .section-team-item {
-    background color:#fff;
+    background-color:#fff;
 }
 
 .section-team-subtitle {
@@ -235,7 +235,7 @@
 /*footer*/
 
 .footer-dark-bg {
-    background: var(--navyblue, #2e2f42);
+    background-color: var(--navyblue, #2e2f42);
     flex-shrink: 0;
 }
 
@@ -256,7 +256,7 @@
 }
 
 .footer-dark-bg-text {
-    color: var(--cloud, #f4f4fd);
+    color:var(--cloud, #f4f4fd);
     font-family: Roboto;
     font-size: 16px;
     font-style: normal;
@@ -374,3 +374,4 @@
 
 .project-card-text:root {
     color: #434455;
+}
