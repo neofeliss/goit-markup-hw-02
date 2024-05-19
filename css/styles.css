@@ -168,7 +168,7 @@
 }
 
 .section-team-title-name {
-    color:var(--navyblue#2e2f42);
+    color:#2e2f42;
     font-weight:700;
     font-size:36px;
     line-height:1.11;
@@ -183,7 +183,7 @@
 }
 
 .section-team-subtitle-name {
-    color: var(--navyblue#2e2f42);
+    color:#2e2f42;
     font-weight:500;
     font-size:20px;
     line-height:1.2;
@@ -215,7 +215,7 @@
 }
 /* section 4 */
 .section-subtitle-portfolio {
-    color: var(--navyblue#2e2f42);
+    color:#2e2f42;
     font-weight:500;
     font-size:20px;
     line-height:1.2;
@@ -224,7 +224,7 @@
 }
 
 .section-text-portfolio {
-    color: var(--slate, #434455);
+    color:#434455;
     font-weight:400;
     font-size:16px;
     line-height:1.5;
